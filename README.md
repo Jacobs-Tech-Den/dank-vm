@@ -24,3 +24,5 @@ The first thing you'll want to do after entering the admin panel is immediately 
 After that, you can create a VM. CollabVM currently only supports QEMU at this time, however plans for supporting other VM software are in the works.
 
 For more information on the admin panel and its usage, visit [the wiki page on the Admin Panel](https://computernewb.com/wiki/CollabVM%20Server%201.x/Admin%20Panel).
+
+(should work now)
